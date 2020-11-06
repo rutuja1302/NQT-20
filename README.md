@@ -7,5 +7,8 @@ This Repository contains the programming questions & solutions asked in TCS Nati
 4. Caesar cipher Program(Asked on 24th October)
 5. Painting a Property(Asked on 25th October)
 6. City Bus Fare(Asked on 25th October)
-7. Fully Automatic Vending Machine Program(Asked on 26th October)
-8. Write a Program to find the number of characters and words in a given sentence(Asked on 29th october)
+7. Monkey Problem(Asked on 25th October)
+8. Fully Automatic Vending Machine Program(Asked on 26th October)
+9. Write a Program to find the number of characters and words in a given sentence(Asked on 29th october)
+
+Note: Full detailed program statement of each problem is included in the source code file
