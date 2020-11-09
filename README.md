@@ -10,6 +10,7 @@ This Repository contains the programming questions & solutions asked in TCS Nati
 7. Monkey Problem - Given Bananas and Peanuts as treat to N monkeys, determine how many monkeys are left on the tree which didnot get the treats(Asked on 25th October)
 8. Chain Marketing Problem - Given a Parent member and/or N child members determine the commission each member will get.(Asked on 25th October)
 9. Car Parking Problem - Write a program to park a car & search for a car parked.(Asked on 25th October)
+10. Train Problem - Given Train timings of Train A, determine timings of train B in similar fashion.(Asked on 25th October)
 10. Fully Automatic Vending Machine Program - Given different menus and sub menus, make an order for the customer(Asked on 26th October)
 11. Write a Program to find the number of characters and words in a given sentence(Asked on 29th october)
 
