@@ -14,6 +14,7 @@ This Repository contains the programming questions & solutions asked in TCS Nati
 11. Fully Automatic Vending Machine Program - Given different menus and sub menus, make an order for the customer(Asked on 26th October)
 12. Seating Arrangement in an Exam Hall Problem(Asked on 26th October)
 13. Doctor's Clinic - Based on given consulation fees grouped by ages, calculate the total earnings of the doctor for the day(Asked on 26th October)
-14. Write a Program to find the number of characters and words in a given sentence(Asked on 29th october)
+14. SetBalls - Classify the given set(SetBalls[]) based on the given input which can be one value among: Brand / Size / Weight / Color and display all new sets after classification with the criteria name  at the beginning of the set  in sorted order of Criteria. (Asked on 26th October)
+15. Write a Program to find the number of characters and words in a given sentence(Asked on 29th october)
 
 Note: Full detailed program statement of each problem is included in the source code file
