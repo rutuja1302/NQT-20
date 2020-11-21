@@ -19,6 +19,7 @@ This Repository contains the programming questions & solutions asked in TCS Nati
 16. Invalid Mobile Number - Given a set of Mobile Numbers, determine the number of invalid mobile numbers present.(Asked on 26th October)
 17. Fibonacci Series - For a given number N, print fibonacci series, Number of even numbers present in the series & number of odd numbers.(Asked on 27th October)
 18. Count Vowels - Given a string message as input, count the vowels present in the string and print them with a string without the vowels(Asked on 27th October)
-19. Write a Program to find the number of characters and words in a given sentence(Asked on 29th october)
+19. IPL Teams - Given N number of teams, Write a code to display Pairing of Teams and possible number of matches possible excluding Semi Final and Final.(Asked on 27th October)
+20. Write a Program to find the number of characters and words in a given sentence(Asked on 29th october)
 
 Note: Full detailed program statement of each problem is included in the source code file
