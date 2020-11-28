@@ -21,6 +21,7 @@ This Repository contains the programming questions & solutions asked in TCS Nati
 18. Count Vowels - Given a string message as input, count the vowels present in the string and print them with a string without the vowels(Asked on 27th October)
 19. IPL Teams - Given N number of teams, Write a code to display Pairing of Teams and possible number of matches possible excluding Semi Final and Final.(Asked on 27th October)
 20. Sports Selection - For Annual sports, n no. of candidates participated, out of which only m number of candidates are selected based on thier heights. The m candidates with max heights are selected. (Asked on 27th october)
-21. Write a Program to find the number of characters and words in a given sentence(Asked on 29th october)
+21. Eye Checkup camp - Given N number of patients(1<=N<=10), form 2 queues where Queue2 will contain patients above age 60 & upto 5 members only, remaining will be assigned to Queue1. If 1 patient takes 15mins calculate how much time Queue1 and Queue2 will indivually take.(Asked on 27th October)
+22. Write a Program to find the number of characters and words in a given sentence(Asked on 29th october)
 
 Note: Full detailed program statement of each problem is included in the source code file
