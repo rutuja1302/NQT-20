@@ -24,6 +24,7 @@ This Repository contains the programming questions & solutions asked in TCS Nati
 21. Eye Checkup camp - Given N number of patients(1<=N<=10), form 2 queues where Queue2 will contain patients above age 60 & upto 5 members only, remaining will be assigned to Queue1. If 1 patient takes 15mins calculate how much time Queue1 and Queue2 will indivually take.(Asked on 27th October)
 22. Food Court - A food court has decided to make an app which will display menu card and place their order. Given Menu number and quantity, determine the total bill of the customer.(Asked on 28th October)
 23. Customer Discount - On total billing amount, if total bill is above 1000, 10% dicount is applied, if total bill is below 1000 no discount. If customer is member then additional 5% if total billing amount is above 1000 and 8% if below 1000 amount.(Asked on 28th October)
-24. Write a Program to find the number of characters and words in a given sentence(Asked on 29th october)
+24. TV purchasing - Given few conditions, determine the discounted price upon a set of TVs.(Asked on 28th october)
+25. Write a Program to find the number of characters and words in a given sentence(Asked on 29th october)
 
 Note: Full detailed program statement of each problem is included in the source code file
