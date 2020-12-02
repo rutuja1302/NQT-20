@@ -25,6 +25,7 @@ This Repository contains the programming questions & solutions asked in TCS Nati
 22. Food Court - A food court has decided to make an app which will display menu card and place their order. Given Menu number and quantity, determine the total bill of the customer.(Asked on 28th October)
 23. Customer Discount - On total billing amount, if total bill is above 1000, 10% dicount is applied, if total bill is below 1000 no discount. If customer is member then additional 5% if total billing amount is above 1000 and 8% if below 1000 amount.(Asked on 28th October)
 24. TV purchasing - Given few conditions, determine the discounted price upon a set of TVs.(Asked on 28th october)
-25. Write a Program to find the number of characters and words in a given sentence(Asked on 29th october)
+25. Shop of Soft Toys - Given N toys displayed on the shelf of the store, customer randomly picks one toy by specifying it's name or item number. Display the remaining shelf items as output once the toy is removed from the shelf.(Asked on 28th October)
+26. Write a Program to find the number of characters and words in a given sentence(Asked on 29th october)
 
 Note: Full detailed program statement of each problem is included in the source code file
