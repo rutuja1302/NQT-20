@@ -27,6 +27,7 @@ This Repository contains the programming questions & solutions asked in TCS Nati
 24. TV purchasing - Given few conditions, determine the discounted price upon a set of TVs.(Asked on 28th october)
 25. Shop of Soft Toys - Given N toys displayed on the shelf of the store, customer randomly picks one toy by specifying it's name or item number. Display the remaining shelf items as output once the toy is removed from the shelf.(Asked on 28th October)
 26. Travel Agency - A Travel Agency is conducting a survey for 5 countries from 5 users for determining the highest ranked countries. Each user will rank each country from 1 to 5, 1 being the highest rank. The country/countries with maximum number of rank 1s is declared as highest rank country/countries. Print the countries with highest rank.(Asked on 28th October)
-27. Write a Program to find the number of characters and words in a given sentence(Asked on 29th october)
+27. Bunch of Keys - Given N keys, determine blank keys,duplicate keys,distinct keys and print the blank keys, total number of keys and total number of locks.(Asked on 28th October)
+28. Write a Program to find the number of characters and words in a given sentence(Asked on 29th october)
 
 Note: Full detailed program statement of each problem is included in the source code file
